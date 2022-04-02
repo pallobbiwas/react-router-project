@@ -1,0 +1,15 @@
+.my-image {
+  width: 60px;
+  border-radius: 30px;
+}
+.my-flex {
+  display: flex;
+  align-items: center;
+}
+.my-bton {
+  border: none;
+  margin-left: 35px;
+  border-radius: 10px;
+  background-color: red;
+  color: aliceblue;
+}

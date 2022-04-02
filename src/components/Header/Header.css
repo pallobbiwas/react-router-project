@@ -1,0 +1,22 @@
+.nav-container {
+  background-color: rgb(65, 61, 61);
+  padding: 10px 1px;
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+h2 {
+  color: coral;
+}
+.nav-iteam .iteam {
+  font-size: 20px;
+  text-decoration: none;
+  margin-right: 50px;
+  color: wheat;
+}
+.nav-iteam .iteam:hover {
+  color: #fff;
+}

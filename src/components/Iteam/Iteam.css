@@ -1,0 +1,9 @@
+.my-btn {
+  border: none;
+  padding: 4px 0;
+  border-radius: 20px 0 20px 0;
+}
+.my-btn:hover {
+  background-image: linear-gradient(180deg, rgb(32, 114, 139), rgb(51, 40, 40));
+  color: aliceblue;
+}
